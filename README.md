@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0039-combination-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0039-combination-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
