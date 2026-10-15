@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
