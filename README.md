@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
