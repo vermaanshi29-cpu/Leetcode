@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
