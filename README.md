@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -108,9 +109,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
