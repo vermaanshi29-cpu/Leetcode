@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
 | ------- |
