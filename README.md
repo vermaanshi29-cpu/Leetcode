@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
