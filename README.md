@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
 ## Two Pointers
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
