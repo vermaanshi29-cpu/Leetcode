@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
@@ -163,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
