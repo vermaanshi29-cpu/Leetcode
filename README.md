@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
@@ -163,10 +167,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
