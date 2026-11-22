@@ -32,7 +32,7 @@ class Solution {
             }
         }
 
-        // If there is no operator, return the number itself
+        
         if (ans.isEmpty()) {
             ans.add(Integer.parseInt(expression));
         }
