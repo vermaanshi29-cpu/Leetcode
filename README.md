@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Tree
 |  |
 | ------- |
