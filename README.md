@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1732-find-the-highest-altitude](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Backtracking
 |  |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0279-perfect-squares) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
