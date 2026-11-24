@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1732-find-the-highest-altitude](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Backtracking
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
