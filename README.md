@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1137-n-th-tribonacci-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/vermaanshi29-cpu/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bitmask
 |  |
 | ------- |
